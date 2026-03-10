@@ -64,4 +64,4 @@ While implementing merge sort I learned more about:
 
 Below is a screenshot of the program running in VS Code.
 
-![Merge Sort Program Output](mergeSort.png)
+![Merge Sort Program Output](MergeSort.png)
