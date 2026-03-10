@@ -58,4 +58,10 @@ While implementing merge sort I learned more about:
 - how divide and conquer algorithms work
 - how recursion can break large problems into smaller ones
 - how the merge step combines sorted subarrays
-- why merge sort has a consistent **O(n log n)** runtime
+- why merge sort has a consistent O(n log n) runtime
+
+## Program Output
+
+Below is a screenshot of the program running in VS Code.
+
+![Merge Sort Program Output](mergeSort.png)
